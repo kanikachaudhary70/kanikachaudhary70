@@ -1,10 +1,6 @@
 # Hi there, I'm Kanika Chaudhary! 👋
 
 <p align="center">
-  <a href="https://protfolio-lake-mu.vercel.app">
-    <img src="profile.jpg" width="140" alt="Kanika Chaudhary" style="border-radius: 50%; max-width: 100%; height: auto;" />
-  </a>
-  <br/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=0891b2&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Intern+%40+Naiyo;Shipping+AI+Agent+Workflows+%26+RAG+Pipelines" alt="Typing SVG" />
 </p>
 
