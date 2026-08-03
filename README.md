@@ -1,16 +1,16 @@
 # Hi there, I'm Kanika Chaudhary! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=0891b2&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Intern+%40+Naiyo;Shipping+AI+Agent+Workflows+%26+RAG+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=0891b2&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Intern+%40+Naiyo24;Shipping+AI+Agent+Workflows+%26+RAG+Pipelines" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I am a final-year **Computer Science & Engineering (AI/ML)** student at **UPES** and an **Intern at Naiyo** with a bias for action. I specialize in building autonomous agent workflows, advanced RAG systems, and securing full-stack APIs. 🛡️
+I am a final-year **Computer Science & Engineering (AI/ML)** student at **UPES** and an **Intern at Naiyo24** with a bias for action. I specialize in building autonomous agent workflows, advanced RAG systems, and securing full-stack APIs. 🛡️
 
-* 🚀 **Intern** at Naiyo — building tool-calling logic and evaluating ML models.
+* 🚀 **Intern** at Naiyo24 — building tool-calling logic and evaluating ML models.
 * 📦 **Shipped products** — designed, built, and deployed live full-stack projects independently.
 * 🛠️ **Favorite Stack** — Python, FastAPI, PostgreSQL, LangChain, React, and Ollama.
 * 📍 **Target Locations** — Open to AI/ML & Gen AI roles in Bangalore, Noida, and Gurgaon.
